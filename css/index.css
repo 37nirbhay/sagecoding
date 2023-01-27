@@ -1,4 +1,7 @@
 h1 {
     color: red;
-   
+    background: blue;
+    font-family: Monospace;
+    font-weight: 600;
+    display: flex;
 }
